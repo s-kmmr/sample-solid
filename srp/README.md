@@ -1,6 +1,6 @@
 # 単一責任の原則（Single responsibility principle）
 
-## ngpatter
+## ngpattern
 会社という大きな概念で仕事を全部持ってる。  
 何かのフローが変る度に、会社全体に影響しちゃう。
 ## okpattern
