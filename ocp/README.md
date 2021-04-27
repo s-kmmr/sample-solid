@@ -1,4 +1,4 @@
-# 解放閉鎖の原則（Open–closed principle）
+# 開放閉鎖の原則（Open–closed principle）
 
 ## ngpattern
 新しい動物の鳴き声を追加する際に、関数側に手が入ることに・・・  
